@@ -1,0 +1,23 @@
+body{
+	background-image:url(images/2.jpg);
+}
+
+.text{
+	color:#00ff00;
+}
+
+#Ne-a{
+	padding: 540px;
+}
+
+#textStyle{
+	font-size: 70px;
+}
+
+.text1{
+	color:#ff0000;
+}
+
+#textStyle1{
+	font-size: 80px;
+}
